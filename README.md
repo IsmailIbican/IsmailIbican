@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/IsmailIbican/IsmailIbican/main/profile.gif" width="200"/>
 
-# 👋 Hi, I'm İsmail  
+#  Hi, I'm İsmail  
 ### Software Engineering Student • Flutter Developer • Backend Learner  
 
 I'm a 3rd-year **Software Engineering** student passionate about  
@@ -9,7 +9,7 @@ I love building clean, scalable, and visually polished applications.
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### **Languages**
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -36,27 +36,27 @@ I love building clean, scalable, and visually polished applications.
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 🔥 **Food Recommendation App – Flutter + SQLite**
+###  **Food Recommendation App – Flutter + SQLite**
 A diet-based food recommendation app using disease restrictions.  
 ✔ Local database  
 ✔ Search & filtering  
 ✔ Clean UI  
 ✔ Disease–food restriction logic
 
-### 🧩 **REST API — Node.js + MySQL**
+###  **REST API — Node.js + MySQL**
 CRUD operations with MVC folder structure.
 
-### 🌲 **Data Structures in C**
+###  **Data Structures in C**
 Linked list, Stack, Queue, BST implementations for academic practice.
 
-### 🤖 **Machine Learning Mini-Projects**
+###  **Machine Learning Mini-Projects**
 Regression, classification, EDA, preprocessing.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IsmailIbican&show_icons=true&theme=react"/>
