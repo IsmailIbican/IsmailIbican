@@ -4,7 +4,7 @@
 ### Software Engineering Student • Flutter Developer • Backend Learner  
 
 I'm a 3rd-year **Software Engineering** student passionate about  
-**mobile development (Flutter), backend systems, data structures, and AI.**  
+**mobile development (Flutter), backend systems, data structures, Data Science, Machine Learning and AI.**  
 I love building clean, scalable, and visually polished applications.
 
 ---
