@@ -17,6 +17,7 @@ I love building clean, scalable, and visually polished applications.
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ### **Mobile Development**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -33,6 +34,9 @@ I love building clean, scalable, and visually polished applications.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cloud Firestore](https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![sqflite](https://img.shields.io/badge/sqflite-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
@@ -69,10 +73,10 @@ Regression, classification, EDA, preprocessing.
 
 ---
 
-## 📫 Contact
+## Contact
 📧 **ismailibican16@gmail.com*  
 🐦 GitHub: **github.com/IsmailIbican**
 
 ---
 
-⭐ *If you like my work, feel free to star or reach out!*  
+*If you like my work, feel free to star or reach out!*  
